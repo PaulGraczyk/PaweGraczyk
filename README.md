@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaweGraczyk
+- 👋 Hi, my name is Paweł Graczyk. Pleasure to meet you!
 - 🌱 I’m currently learning Java programming language. nd it's my starting programming language. Small steps, one at a time.  It's quite fun!
 - 📫 How to reach me ---> email: pawgra7@gmail.com
 
